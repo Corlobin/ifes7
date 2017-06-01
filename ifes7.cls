@@ -132,7 +132,7 @@
 \renewcommand{\cftchapterfont}{\bfseries\normalsize}
 \renewcommand{\cftchapterpagefont}{\normalsize\cftchapterfont}
 % 
-\renewcommand{\cftsectionfont}{\bfseries\normalsize}
+\renewcommand{\cftsectionfont}{\mdseries\normalsize}
 \renewcommand{\cftsectionpagefont}{\cftsectionfont}
 % 
 \renewcommand{\cftsubsectionfont}{\normalsize}
